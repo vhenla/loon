@@ -1,0 +1,17 @@
+# NAME: HBO
+# AUTHOR: blackmatrix7
+# REPO: https://github.com/blackmatrix7/ios_rule_script
+# UPDATED: 2024-07-03 16:16:13
+# DOMAIN: 1
+# DOMAIN-SUFFIX: 45
+# PROCESS-NAME: 1
+# TOTAL: 47
+DOMAIN-SUFFIX,chippercash.com
+DOMAIN-SUFFIX,api.sprig.com
+DOMAIN-SUFFIX,fastly.net
+DOMAIN-SUFFIX,amplitude.com
+DOMAIN-SUFFIX,branch.io
+DOMAIN-SUFFIX,sardine.ai
+DOMAIN-SUFFIX,intercom.com
+DOMAIN-SUFFIX,intercom.io
+DOMAIN-SUFFIX,bugsnag.com
